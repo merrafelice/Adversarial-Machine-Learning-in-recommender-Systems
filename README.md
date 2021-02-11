@@ -4,7 +4,7 @@ A table of adversarial learning publications in recommender systems. This page w
 
 The table is complement of the survey below.
 
-[***Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions*** ](https://arxiv.org) 
+[***A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks*** ](http://sisinflab.poliba.it/publications/2021/DDM21/) 
 
 ```
 @article{DBLP:journals/corr/abs-2005-10322,
@@ -16,6 +16,19 @@ The table is complement of the survey below.
   year      = {2021},
   url       = {https://doi.org/10.1145/3439729},
    doi      = {10.1145/3439729},
+}
+
+@inproceedings{DBLP:conf/recsys/AnelliDNM20,
+  author    = {Vito Walter Anelli and
+               Yashar Deldjoo and
+               Tommaso Di Noia and
+               Felice Antonio Merra},
+  title     = {Adversarial Learning for Recommendation: Applications for Security
+               and Generative Tasks - Concept to Code},
+  booktitle = {RecSys},
+  pages     = {738--741},
+  publisher = {{ACM}},
+  year      = {2020}
 }
 ```
 
